@@ -1,15 +1,15 @@
 <?php
 
-$wl1= "DC5VGVtpSf5641QsTXihaQFxUL7CAc3g13";
-$wl2= "D7tPS3E26XNpatbzDTHqwAi7nuAjgzYsQU";
-$wl3= "DD9fL9M6UgV65qDKWTQKpwDBz6U2fnPC4A";
-$wl4= "D6jSyq3FYg9cp2WpC2warMwMZV9CXLaFTc";
-$wl5= "D7nLsyeTVUBxScLXqzcD1kxMZHkGQFBxE2";
-$wl6= "DSeY2WRQD4RD414qxCoy9rcT747XbJp4EH";
-$wl7= "DFukp4fe4UziRdKYCFfQCXBa7r7bC451JJ";
-$wl8= "DNetteYHZvR6h9CCN9iXjqcHRb8ogtx8o8";
-$wl9= "DBXZoE634vwaC3y9pCJeHWNK2LctdyqxMz";
-$wl10="DKwPB5nwbn7Vof6v9eBVjqdAUXQULdCqd1";
+$wl1= "stop";
+$wl2= "stop";
+$wl3= "stop";
+$wl4= "stop";
+$wl5= "stop";
+$wl6= "stop";
+$wl7= "stop";
+$wl8= "stop";
+$wl9= "stop";
+$wl10="stop";
 $wl11= "stop";
 $wl12= "stop";
 $wl13= "stop";
